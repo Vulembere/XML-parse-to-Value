@@ -6,7 +6,7 @@ $var = '<?xml version=\'1.0\' encoding=\'UTF-8\'?>
             <ns2:TcheckBalResponse xmlns:ns2="http://services.ws1.com/">
                 <return>
                     <balance> 0,634</balance>
-                    <partnId>3673</partnId>
+                    <partnId>0000</partnId>
                     <resultCode>0</resultCode>
                     <resultDesc>"You have currently 0  USD available on your account and Your Normal wallet of MFS provider ORANGE MONEY is debited with service charge 0 USD, Commission 0 USD and 0 FCFA set aside for pending confirmation_fr"</resultDesc>
                     <transId>43434343434343434343</transId>
